@@ -1,0 +1,1 @@
+Practica para repasar los comandos vistos en clases, find() y los Query Selectors
